@@ -42,6 +42,7 @@
     "F_MMUI_StartButton": "开始",
     "F_MMUI_LoadingScreenHeader": "加载中",
     "F_MMUI_LoadingScreenDescription": "请稍候，正在初始化... 这可能需要一些时间。",
+    "F_MMUI_JoinAsSpectator": "作为观战者加入",
     "F_UI_CannotJoinRaidOtherMap": "不可以加入另一个地图的行动\n行动地图: {0}",
     "F_UI_CannotJoinRaidOtherTime": "不可以加入另一个时间的行动.",
     "F_UI_CannotJoinRaidScavAsPMC": "你不能以PMC身份加入SCAV行动",
