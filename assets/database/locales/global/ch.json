@@ -232,5 +232,12 @@
     "F_BepInEx_SmoothingRate_T": "平滑率",
     "F_BepInEx_SmoothingRate_D": "本地模拟落后于发送速率*平滑速率。这保证了我们在缓冲区中总是有足够的快照来缓解插值期间的延迟和抖动。\n\nLow = 1.5\nMedium = 2\nHigh = 2.5\n\n如果移动不顺畅，请将此设置为“High”。在战局内更改不会立即生效",
     "F_BepInEx_DisableBotMetabolism_T": "关闭 AI新陈代谢",
-    "F_BepInEx_DisableBotMetabolism_D": "关闭AI的新陈代谢，防止它们在过长时间的战局中因能量/水分丧失而死亡"
+    "F_BepInEx_DisableBotMetabolism_D": "关闭AI的新陈代谢，防止它们在过长时间的战局中因能量/水分丧失而死亡",
+    "F_MMUI_OnlinePlayers": "在线玩家: {0}",
+    "F_MMUI_InMenu": "主菜单",
+    "F_MMUI_InRaid": "战局中",
+    "F_MMUI_InStash": "仓库中",
+    "F_MMUI_InHideout": "藏身处",
+    "F_MMUI_InFlea": "在跳蚤市场",
+    "F_MMUI_RaidDetails": "正作为 {0} 在 {1} 中游玩\n时间: {2}"
 }
