@@ -99,6 +99,7 @@
     "F_Notification_ItemReceived": "你收到了来自玩家 {1} 发送的 {0}",
     "F_Notification_RaidSettingsDisabled": "禁用服务器主机调整的战局设置",
     "F_UI_ExtractMessage": "按下 '{0}' 撤离",
+    "F_UI_DownloadProfile": "下载存档",
     "F_BepInEx_H_Advanced": "进阶",
     "F_BepInEx_H_Coop": "联机",
     "F_BepInEx_H_Coop_NamePlates": "联机 | 铭牌显示",
