@@ -37,6 +37,7 @@
     "F_MMUI_HostRaidButton": "RAID LÉTREHOZÁSA",
     "F_MMUI_JoinButton": "CSATLAKOZÁS",
     "F_MMUI_SelectAmountHeader": "ÖSSZEG KIVÁLASZTÁSA",
+    "F_MMUI_SessionSettingsHeader": "SESSION SETTINGS",
     "F_MMUI_SelectAmountDescription": "Hány ember fog játszani (beleértve téged is)?",
     "F_MMUI_UseDedicatedHost": "Dedicated Host használata",
     "F_MMUI_StartButton": "INDITÁS",
@@ -242,5 +243,7 @@
     "F_MMUI_InStash": "Széfben",
     "F_MMUI_InHideout": "Bunkerben",
     "F_MMUI_InFlea": "Aukciós házban",
-    "F_MMUI_RaidDetails": "Játék {0} ként {1}-en\nIdő: {2}"
+    "F_MMUI_RaidDetails": "Játék {0} ként {1}-en\nIdő: {2}",
+    "F_UI_LocaleError_H": "LOCALES ERROR",
+    "F_UI_LocaleError_D": "There were errors when loading the Fika locales. Translation is now using fallbacks for the failed headers. Please report this to the developers!\n\nFailed keys: {0}"
 }

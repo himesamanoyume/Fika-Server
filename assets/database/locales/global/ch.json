@@ -37,6 +37,7 @@
     "F_MMUI_HostRaidButton": "主持一个行动",
     "F_MMUI_JoinButton": "加入",
     "F_MMUI_SelectAmountHeader": "选择一个数量",
+    "F_MMUI_SessionSettingsHeader": "SESSION SETTINGS",
     "F_MMUI_SelectAmountDescription": "将有多少人(包括您) 在玩？",
     "F_MMUI_UseDedicatedHost": "使用专用主机",
     "F_MMUI_StartButton": "开始",
@@ -242,5 +243,7 @@
     "F_MMUI_InStash": "仓库中",
     "F_MMUI_InHideout": "藏身处",
     "F_MMUI_InFlea": "在跳蚤市场",
-    "F_MMUI_RaidDetails": "正作为 {0} 在 {1} 中游玩\n时间: {2}"
+    "F_MMUI_RaidDetails": "正作为 {0} 在 {1} 中游玩\n时间: {2}",
+    "F_UI_LocaleError_H": "汉化文本错误",
+    "F_UI_LocaleError_D": "加载Fika汉化文本时出错. 现在正使用错误文本对应的字段进行显示. 请将这个情况报告给开发者!\n\n错误代码: {0}"
 }
